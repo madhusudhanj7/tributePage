@@ -1,0 +1,42 @@
+body{
+    font-family: Source Sans Pro;
+    background: lightblue ;
+    background-size: cover;
+    border-style: groove;
+    margin:10px 50px 10px 50px;
+    border: 10px solid black;
+    outline-style: double;
+    outline-color: blue;
+    outline-width: thick;
+    padding: 30px;
+    text-align: justify;
+    letter-spacing: 0.5px;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h4{
+    font-size: 25px;
+}
+img{
+    height: 350px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+  font-size: 17px;
+  color: black;
+  font-family: verdana;
+}
+section {
+    margin: 5%;
+}
+nav{
+    margin: 3%;   
+}
+footer{
+    margin: 5%;
+}
